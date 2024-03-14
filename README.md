@@ -1,5 +1,5 @@
 <h1 align="center"><img src="./.github/assets/nixvim-dark.webp" width=255></h1>
-<h2 align="center">My Neovim config built with <a href="https://nvchad.com/">lazy.nvim</a>, packaged as an (optional) Nix Flake.</h2>
+<h2 align="center">Neovim config built with <a href="https://nvchad.com/">lazy.nvim</a>, packaged as an (optional) Nix Flake.</h2>
 
 
 <h1 align="center">
@@ -35,6 +35,7 @@
 ![image](https://github.com/IogaMaster/neovim/assets/67164465/f550bc43-0bf7-4921-afa5-746923ac0165)
 </details>
 
+<h2>Credit: IogaMaster</h2>
 
 To try it out without installing:
 
