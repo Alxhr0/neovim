@@ -39,10 +39,10 @@
 To try it out without installing:
 
 ```sh
-nix run github:IogaMaster/neovim
+nix run github:Alxhr0/neovim
 ```
 
 Or without Nix:
 ```
-git clone https://github.com/IogaMaster/neovim --depth=1 ~/.config/nvim/ && nvim
+git clone https://github.com/Alxhr0/neovim --depth=1 ~/.config/nvim/ && nvim
 ```
